@@ -23,7 +23,7 @@ twitter_username: _bormaa_
 github_username:  bormaa
 
 # Build settings
-markdown: kramdown
+markdown: GFM
 # theme: minima
 # plugins:
 #   - jekyll-feed
